@@ -1,11 +1,14 @@
 # CodeSoft
 
-#Python + AI projects 
+## Python + AI projects 
 
-#Tic tqc toe
+## Tic tqc toe
 <br>
-#chat role base system
+
+## chat role base system
+
 <br>
-#Recommendation System
+
+## Recommendation System
 
 
